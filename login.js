@@ -1,6 +1,6 @@
 <div>
-<input placeholder="Phone Number"/>
-<input placeholder="Enter Name"/>
+<input placeholder="Enter full Name"/>
+<input placeholder="Enter Number"/>
 <button>Login</button>
 
 </div>
